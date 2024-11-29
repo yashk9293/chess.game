@@ -31,5 +31,5 @@
     "vite": "^4.4.5",
     "vite-tsconfig-paths": "^4.2.1"
   },
-  "proxy":"https://chess-game-ten-gray.vercel.app/"
+  "proxy":"http://localhost:5000"
 }
